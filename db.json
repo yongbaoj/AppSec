@@ -11,7 +11,7 @@
           "headwhen": "When To Perform Threat Modelling?" ,
           "when": "Optimally, threat modelling should be done at an early stage of the development as it can save significant resources on risk mitigation during a later phase.<br><br>Cyber security, threat and technology landscape is constantly evolving, it's also important to perform Threat Modelling on existing systems, applications or features to identify new threats and vulnerabilities.<br>In the absence of new feature development or enhancement, threat modelling should be revisited as part of support and maintenance activities.",
           "headhow": "What Methodologies and Tools to Use?" ,
-          "how": "There are many Threat Modelling methodologies and tools and we'll primiarily use Microsoft STRIDE, Mitre Att@ck, Attack Tree, DREAD and CVSS, etc.",
+          "how": "There are many Threat Modelling methodologies and tools and we'll primarily use Microsoft STRIDE, Mitre Att@ck, Attack Tree, DREAD and CVSS, etc.",
           "headwho": "Who should threat model?" ,
           "who": "You. Everyone. Anyone who is concerned about the privacy, safety, and security of their system."
         }
@@ -39,11 +39,11 @@
         "image": "/AppSec3.jpg",
         "points": {
           "headwhy": "Why Automate and Repeat Security Test?" ,
-          "why": "Traditional penetration test is manual, time consuming and costly and it's infeasible to engage manual penetration test for every signle application release",
+          "why": "Traditional penetration test is manual, time consuming and costly and it's infeasible to engage manual penetration test for every single application release",
           "headwhen": "When To Automate and Repeat Security Test?" ,
           "when": "If your application worths penetration testing and there're potential abuse cases you want to avoid",
           "headhow": "What Methodologies and Tools to Use?" ,
-          "how": "Our team have built our own prioperity security test automation solution",
+          "how": "Our team have built our own propriety security test automation solution",
           "headwho": "Who should Automate and Repeat Security Test?" ,
           "who": "Everyone worry about your application security and has concerns on any abuse cases."
         }
