@@ -5,7 +5,7 @@
         "title": "Threat Modelling Analysis",
         "details": "Our experts help you <ul><li>Assess your existing applications or new application designs</li><li>Identify potential threat agents and threats</li> <li>Recommend countermeasures</li>  <li>Prioritize defenses </li> </ul> Making sure your applications are secure.",
         "image": "/AppSec1.jpg",
-        "image-m": "/AppSec1-m.jpg",    
+        "image_m": "/AppSec1_m.jpg",    
         "points": {
           "headwhy": "Why threat model?" ,
           "why": "Threat Modelling has become an increasingly important part of secure software development lifecycle (SSDL)process and has been widely adopted to be an industry security best practice. ",
@@ -22,7 +22,7 @@
         "title": "Abuse Case Analysis",
         "details": "Our experts help you <ul><li>Assess your existing applications or new application designs</li><li>Identify potential threats and abuse cases</li> <li>Recommend countermeasures</li>  <li>Prioritize defenses </li> </ul> Making sure your applications are secure.",
         "image": "/AppSec2.jpg",
-        "image-m": "/AppSec2-m.jpg",    
+        "image_m": "/AppSec2_m.jpg",    
         "points": {
           "headwhy": "Why Abuse Case Analysis?" ,
           "why": "Abuse case analysis is an industry security best practice to shift security to the left by identifying potential attackers and abuse cases in design phases. ",
@@ -39,7 +39,7 @@
         "title": "Automated and Repeated Security Test",
         "details": "Our experts help you <ul><li>Integrate security test cases in your DevOps/GitOps pipelines</li><li>Define automated and repeatable security test cases</li> <li>Define security test cases to validate remediation of any vulnerabilities identified by your Cyber team</li>  <li>Provide remediation evidences </li> </ul> Making sure your applications are secure and compliant.",        
         "image": "/AppSec3.jpg",
-        "image-m": "/AppSec3-m.jpg",    
+        "image_m": "/AppSec3_m.jpg",    
         "points": {
           "headwhy": "Why Automate and Repeat Security Test?" ,
           "why": "Traditional penetration test is manual, time consuming and costly and it's infeasible to engage manual penetration test for every single application release",
